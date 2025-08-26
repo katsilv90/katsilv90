@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">👋 Olá, eu sou a Katherine Silvestre</h2>
+<h3 align="left">PT👋 Olá, eu sou a Katherine Silvestre</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">👋 Hey, I'm Katherine Silvestre</h2>
+<h3 align="left">EN👋 Hey, I'm Katherine Silvestre</h3>
 
 ###
 
